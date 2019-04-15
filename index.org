@@ -28,11 +28,9 @@ Follow me on [[https://mastodon.social/@kiptea][mastodon]] for updates.
 
 Find me online at:
 
-@@html:<a rel="me" href="https://mastodon.social/@kiptea">mastodon</a>@@
-
-[[https://www.reddit.com/user/kiptea/][reddit]]
-
-[[https://github.com/][github]]
+- @@html:<a rel="me" href="https://mastodon.social/@kiptea">mastodon</a>@@
+- [[https://www.reddit.com/user/kiptea/][reddit]]
+- [[https://github.com/][github]]
 
 -----
 

@@ -1,0 +1,51 @@
+#+title: Kip’s Homepage
+#+options: toc:nil num:nil creator:nil
+#+options: html-preamble:nil html-postamble:nil
+#+author: Kip Teagan
+#+html_doctype: html5
+
+#+begin_export html
+<style>
+body {
+  max-width: 680px;
+  margin: auto;
+
+  font-family: Monospace;
+  font-size: 16px;
+}
+
+footer {
+  font-size: .7em;
+}
+</style>
+#+end_export
+
+* Hey! I am Kip Teagan.
+
+I write sci-fi stories and novel(la)s.
+
+Follow me on [[https://mastodon.social/@kiptea][mastodon]] for updates.
+
+Find me online at:
+
+@@html:<a rel="me" href="https://mastodon.social/@kiptea">mastodon</a>@@
+
+[[https://www.reddit.com/user/kiptea/][reddit]]
+
+[[https://github.com/][github]]
+
+-----
+
+#+begin_export html
+<footer>
+  <a rel="license"
+     href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Creative Commons License" style="border-width:0"
+         src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+  </a>
+  <br/>
+  This work is licensed under a
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    Creative Commons Attribution 4.0 International License</a>.
+</footer>
+#+end_export
